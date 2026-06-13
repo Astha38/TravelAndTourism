@@ -10,7 +10,7 @@ A modern, visually stunning, and fully responsive frontend web application for a
 ## 🎨 Design Reference
 
 This project was built with pixel-perfect precision based on the following professional design:
-🔗 **[Smart Tourism Website Design on Figma](YOUR_FIGMA_LINK_HERE)**
+🔗 **[Smart Tourism Website Design on Figma**
 
 ## 🚀 Live Demo
 
